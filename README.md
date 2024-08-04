@@ -1,7 +1,3 @@
-Here’s a well-structured README for your sentiment analysis project:
-
----
-
 # Sentiment Analysis for Technology Survival
 
 ## Project Overview
